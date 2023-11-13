@@ -2100,7 +2100,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #4169e0 15%, #839deb 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -ms-linear-gradient(75deg, #4169e0 15%, #839deb 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), linear-gradient(75deg, #4169e0 15%, #839deb 55%);
-		background-color: #4169e1;
+		background-color: #0034a6;
 		background-size: 100% 620%;
 		background-size: 128px 128px, 100% 620%, auto;
 		background-repeat: repeat, no-repeat, no-repeat;
