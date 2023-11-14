@@ -2022,7 +2022,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			color: #001c59;
-			border-color: rgba(243, 88, 88, 0.5);
+			border-color: rgba(0, 159, 217, 0.5);
 		}
 
 /* Icons */
@@ -2351,7 +2351,7 @@ input, select, textarea {
 		#promo .button {
 			background: #fff;
 			border-color: rgba(255, 255, 255, 0);
-			color: #27636B;
+			color: #001c59;
 			font-size: 1.25em;
 		}
 
